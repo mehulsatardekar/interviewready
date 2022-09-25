@@ -1,0 +1,1 @@
+export { getFilteredPost } from "./getFilteredPost";
