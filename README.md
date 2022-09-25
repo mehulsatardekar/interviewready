@@ -1,5 +1,9 @@
 # interviewready assignment
 
+Live Link : https://interviewreadyio.netlify.app/
+
+Github Link : https://github.com/mehulsatardekar/interviewready
+
 ### Tech Stack
 - Reactjs
 - Typescript
@@ -17,3 +21,11 @@ Since it has no authentication to verified that the user has already like the po
 liking and disliking post as well as for liking the comment so on.
 
 
+# Installation
+
+
+#### cd interviewready
+
+#### npm install
+
+#### npm run dev
